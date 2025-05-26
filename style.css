@@ -91,6 +91,11 @@ section h2 {
     color: #1f2937;
     /* text-gray-800 do Tailwind */
 }
+logo-titulo img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
 
 .relative {
     position: relative;
